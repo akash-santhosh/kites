@@ -30,7 +30,6 @@ Hello There
 
 ---
 equal: true
-image: null
 ---
 
 # Maatanam
@@ -66,7 +65,6 @@ h1 {
 
 ---
 equal: true
-image: null
 ---
 
 # Maatanam
@@ -104,7 +102,6 @@ h1 {
 
 ---
 equal: true
-image: null
 ---
 
 # Maatanam
