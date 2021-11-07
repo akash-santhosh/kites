@@ -7,7 +7,7 @@ title: 👀
 
 # 👀
 
-Slides for Kites Foundation District Meetup
+Slides for Kites Foundation Meetup
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -32,23 +32,7 @@ Hello There
 equal: true
 ---
 
-# Maatanam
-
-Description Idanam
-
-- **Eat only what you want to survive**
-
-- **Learn to use leftovers in a better manner, so we can make the best use of food without it going waste.**
-
-- **Composting is a good idea. Growing your own food is a sustainable way**
-
-- **Most restaurants, especially fancy ones, take the best bits and throw away the other cuts or skins**
-
-- **Bio Gas and fertilizers...**
-
-- **So cutting down chemicals and fossil fuel**
-
-- **Zero waste way of living. Like getting stuff refilled instead of hoarding packs. Some supermarkets actually does this**
+# **Eat only what you want to survive**
 
 <style>
 h1 {
@@ -62,30 +46,11 @@ h1 {
 }
 </style>
 
-
 ---
 equal: true
 ---
 
-# Maatanam
-
-Description Idanam
-
-- **Bringing own containers and bags for carrying stuffs from stores**
-
-- **Selling juices in the husk of the fruits itself. Hence, no plastic cupa**
-
-- **Stop wastage of food**
-
-- **Use Food Leftovers Judiciously**
-
-- **Avoid buying in excess**
-
-- **Organizing the kitchen with FIFO**
-
-- **Store food correctly**
-
-- **Make a weekly menu**
+# **Learn to use leftovers in a better manner, so we can make the best use of food without it going waste.**
 
 <style>
 h1 {
@@ -99,26 +64,317 @@ h1 {
 }
 </style>
 
+---
+equal: true
+---
+
+# **Composting is a good idea. Growing your own food is a sustainable way**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
 
 ---
 equal: true
 ---
 
-# Maatanam
+# **Most restaurants, especially fancy ones, take the best bits and throw away the other cuts or skins**
 
-Description Idanam
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
 
-- **We need to know what exactly we need**
+---
+equal: true
+---
 
-- **Need vs want! Stuff that**
+# **Bio Gas and fertilizers...**
 
-- **Make a log of spoiled food**
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
 
-- **Try out food preservation methods**
+---
+equal: true
+---
 
-- **The onion peels, food wastes can act as manure for plants thereby enriching  the soil nutrient quality and helping in better growth of the plants and good fruit amount**
+# **Zero waste way of living. Like getting stuff refilled instead of hoarding packs. Some supermarkets actually does this**
 
-- **Create a vermicompost in your house**
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Bringing own containers and bags for carrying stuffs from stores**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Selling juices in the husk of the fruits itself. Hence, no plastic cups**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Stop wastage of food**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Use Food Leftovers Judiciously**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Avoid buying in excess**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Organizing the kitchen with FIFO**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Store food correctly**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Make a weekly menu**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Create a vermicompost in your house**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Try out food preservation methods**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Make a log of spoiled food**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **We need to know what exactly we need**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **Need vs want! Stuff that**
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+equal: true
+---
+
+# **The onion peels, food wastes can act as manure for plants thereby enriching  the soil nutrient quality and helping in better growth of the plants and good fruit amount**
 
 
 <style>
