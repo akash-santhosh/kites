@@ -29,6 +29,7 @@ Hello There
 # The Topic
 
 ---
+layout: center
 equal: true
 ---
 
@@ -47,6 +48,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -65,6 +67,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -83,6 +86,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -101,6 +105,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -119,6 +124,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -137,6 +143,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -155,6 +162,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -173,6 +181,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -191,6 +200,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -209,6 +219,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -227,6 +238,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -245,6 +257,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -263,6 +276,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -281,6 +295,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -299,6 +314,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -317,6 +333,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -335,6 +352,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -353,6 +371,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
@@ -371,6 +390,7 @@ h1 {
 </style>
 
 ---
+layout: center
 equal: true
 ---
 
