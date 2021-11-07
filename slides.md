@@ -374,7 +374,7 @@ h1 {
 equal: true
 ---
 
-# **The onion peels, food wastes can act as manure for plants thereby enriching  the soil nutrient quality and helping in better growth of the plants and good fruit amount**
+# **The onion peels, food wastes can act as manure for plants thereby enriching  the soil <br>nutrient quality and helping in better growth of the plants and good fruit amount**
 
 
 <style>
