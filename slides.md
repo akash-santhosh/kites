@@ -20,11 +20,11 @@ title: 👀
 
 ---
 
-introduction
+# **Introduction**
 
-# * Helping individuals with severe disabilities
-# * Translates users intention to control commands
-# * Individuals are completely dependent on wheeled mobility for transportation
+- Helping individuals with severe disabilities
+- Translates users intention to control commands
+- Individuals are completely dependent on wheeled mobility for transportation
 
 
 ---
