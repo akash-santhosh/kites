@@ -233,6 +233,18 @@ h1 {
   -moz-text-fill-color: transparent;
 }
 </style>
+
+---
+layout: center
+equal: true
+---
+
+# **Time Schedule 👀**
+
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
+</a>
+
 ---
 layout: center
 class: text-center
@@ -247,6 +259,7 @@ class: text-center
 <a href="https://aks.one" target="_blank"
   class="abs-br m-6 text-xl !border-none">aks.one
 </a>
+
 ---
 layout: center
 equal: true
