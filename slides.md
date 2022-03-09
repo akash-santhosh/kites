@@ -275,7 +275,6 @@ h1 {
 </style>
 
 ---
-
 layout: center
 equal: true
 ---
