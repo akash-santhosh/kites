@@ -239,6 +239,21 @@ layout: center
 equal: true
 ---
 
+# **Literature Review**
+- Tongue Operated Assistive Technologies, Maysam Ghovanloo, IEEE Fellow, University of Michigan [Link](https://www.researchgate.net/publication/5843965_Tongue_Operated_Assistive_Technologies)
+- The Tongue Enables Computer and Wheelchair Control for People with Spinal Cord Injury, Several NCBI Members including Maysam Ghovanloo [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467691/)
+- 
+
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
+</a>
+
+---
+
+layout: center
+equal: true
+---
+
 # **Time Schedule 👀**
 
 <a href="https://aks.one" target="_blank"
