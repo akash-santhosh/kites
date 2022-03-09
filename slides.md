@@ -5,9 +5,7 @@ layout: center
 title: 👀
 ---
 
-# 👀
-
-Slides for Kites Foundation Meetup
+# **Tongue drive assistive technology for paralysed persons**
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -15,387 +13,71 @@ Slides for Kites Foundation Meetup
   </span>
 </div>
 
-<a href="https://kites.foundation" target="_blank"
-  class="abs-br m-6 text-xl !border-none">Kites Foundation
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
 </a>
+
+
+---
+
+introduction
+
+# * Helping individuals with severe disabilities
+# * Translates users intention to control commands
+# * Individuals are completely dependent on wheeled mobility for transportation
+
+
+---
+layout: center
+equal: true
+---
+
+# **Objectives**
+- Tongue operated unobtrusive assistive technology, which can potentially provide people with severe disabilities with effective access and environmental control
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Concept**
+- Purely based on extreme cases, persons with severe disabilities as a result of causes ranging from stroke generally find it extremely difficult to carry out daily tasks without receiving continuous help.
+- Our goal in this project was to create a design that can easily adapt to a common electric, joystick controlled wheelchair.
+
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
 
 ---
 layout: image-right
 equal: true
-image: https://pbs.twimg.com/profile_images/1258393149711560704/2_mSUVqx_400x400.jpg
----
-Hello There
-
-# The Topic
-
----
-layout: center
-equal: true
+image: https://aks.one/hotlink-ok/Picture1.jpg
 ---
 
-# **Eat only what you want to survive**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Learn to use leftovers in a better manner, so we can make the best use of food without it going waste.**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Composting is a good idea. Growing your own food is a sustainable way**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Most restaurants, especially fancy ones, take the best bits and throw away the other cuts or skins**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Bio Gas and fertilizers...**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Zero waste way of living. Like getting stuff refilled instead of hoarding packs. Some supermarkets actually does this**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Bringing own containers and bags for carrying stuffs from stores**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Selling juices in the husk of the fruits itself. Hence, no plastic cups**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Stop wastage of food**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Use Food Leftovers Judiciously**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Avoid buying in excess**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Organizing the kitchen with FIFO**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Store food correctly**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Make a weekly menu**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Create a vermicompost in your house**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Try out food preservation methods**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Make a log of spoiled food**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **We need to know what exactly we need**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Need vs want! Stuff that**
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **The onion peels, food wastes can act as manure for plants thereby enriching  the soil <br>nutrient quality and helping in better growth of the plants and good fruit amount**
-
+methodology
 
 <style>
 h1 {
@@ -410,6 +92,161 @@ h1 {
 </style>
 
 
+---
+layout: image-left
+equal: true
+image: https://aks.one/hotlink-ok/Picture2.jpg
+---
+
+Block diagram of proposed system
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Block diagram description**
+
+- The system consist of Hall effect sensors, Microcontroller, Ultrasonic sensors, LCD display and Motor
+- When a magnetic field is activated, the sensor gets activated. While removing the magnetic field, Hall effect sensor get deactivated.
+- Based on which sensor is activated, microcontroller takes a particular decision regarding which direction the wheelchair should go.
+- Here relay is used as motor drive. 
+- To prevent the wheelchair from ramming into obstacles such as walls, we have connected an ultrasonic sensor transmits ultrasonic waves into the air and detects reflected waves from an object
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Software requirement**
+- Arduino
+- Embedded C
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Hardware Requirements**
+
+- Battery 
+- Regulator
+- Filter
+- Microcontroller
+- LCD display
+- Hall effect sensors 
+- Ultrasonic sensors
+- DC motor
+- Relay
+- Buzzer 
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Future Scope**
+- Wireless technology
+- Remote controlling of wheelchair
+- Better obstacle detection
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Conclusion**
+- Here we conclude that we have done our analysis phase for components and going to make hardware. 
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+---
+layout: center
+class: text-center
+---
+
+# Thank You
+
+## Akash Santhosh
+
+[Website](https://aks.one) / [GitHub](https://github.com/akash-santhosh)
+
+<a href="https://aks.one" target="_blank"
+  class="abs-br m-6 text-xl !border-none">aks.one
+</a>
 ---
 layout: center
 equal: true
@@ -417,22 +254,6 @@ equal: true
 
 # **The Great blank space...**
 
-<a href="https://kitesfoundation.org" target="_blank"
-  class="abs-br m-6 text-xl !border-none">Kites Foundation
-</a>
-
----
-layout: dynamic-image 
-image: 'https://pbs.twimg.com/profile_images/1258393149711560704/2_mSUVqx_400x400.jpg'
-class: text-center
----
-
-# Thank You
-
-## Kites Foundation
-
-[Website](https://kites.foundation) / [GitHub](https://github.com/Kites-Foundation)
-
 <a href="https://aks.one" target="_blank"
-  class="abs-br m-6 text-xl !border-none">aks.one
+  class="abs-br m-6 text-xl !border-none">Akash Santhosh
 </a>
