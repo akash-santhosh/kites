@@ -5,7 +5,7 @@ layout: center
 title: 👀
 ---
 
-# **Tongue drive assistive technology for paralysed persons**
+# **Location Based Alarm System**
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 p-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -25,29 +25,12 @@ equal: true
 
 # **Introduction**
 
-- Helping individuals with severe disabilities
-- Translates users intention to control commands
-- Individuals are completely dependent on wheeled mobility for transportation
+Imagine that your're a frequent traveller, and you use the public transports for travel. You would nap during the journey but waking up at the right time to get down at your desired location is not possible every time. This is where our app comes in...
 
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
----
-layout: center
-equal: true
----
-
-# **Objectives**
-- Tongue operated unobtrusive assistive technology, which can potentially provide people with severe disabilities with effective access and environmental control
+- It gives the user  an  alert sound when the users get into  the notification  area  of the  device  and user  can  find  the  place through  the  use  of  the  mobile  phone  and  alert  when approaching the location. .
+- This prototype creates a location based alarm service which enable  the frequent travellers  to initiate  an  alarm whenever and  wherever  it  is  needed  thus  improving  the  quality  of life.
+- The  alarm  can  be  viewed,  deleted  and  edited  by  the mobile  user  without  any  contradiction  in  data  updating.
+- Factors such as traffic, the route you choose etc can affect the total duration of your journey. This is why conventional time based alarms are not useful while traveling.
 
 <style>
 h1 {
@@ -67,31 +50,9 @@ layout: center
 equal: true
 ---
 
-# **Concept**
-- Purely based on extreme cases, persons with severe disabilities as a result of causes ranging from stroke generally find it extremely difficult to carry out daily tasks without receiving continuous help.
-- Our goal in this project was to create a design that can easily adapt to a common electric, joystick controlled wheelchair.
-
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: image-right
-equal: true
-image: https://aks.one/hotlink-ok/Picture1.jpg
----
-
-methodology
+# **Aim of the Project**
+- To wake up the traveller before his stop reaches
+- To alert the loved ones of the traveller
 
 <style>
 h1 {
@@ -105,148 +66,6 @@ h1 {
 }
 </style>
 
-
----
-layout: image-left
-equal: true
-image: https://aks.one/hotlink-ok/Picture2.jpg
----
-
-Block diagram of proposed system
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: center
-equal: true
----
-
-# **Block diagram description**
-
-- The system consist of Hall effect sensors, Microcontroller, Ultrasonic sensors, LCD display and Motor
-- When a magnetic field is activated, the sensor gets activated. While removing the magnetic field, Hall effect sensor get deactivated.
-- Based on which sensor is activated, microcontroller takes a particular decision regarding which direction the wheelchair should go.
-- Here relay is used as motor drive. 
-- To prevent the wheelchair from ramming into obstacles such as walls, we have connected an ultrasonic sensor transmits ultrasonic waves into the air and detects reflected waves from an object
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: center
-equal: true
----
-
-# **Software requirement**
-- Arduino
-- Embedded C
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: center
-equal: true
----
-
-# **Hardware Requirements**
-
-- Battery 
-- Regulator
-- Filter
-- Microcontroller
-- LCD display
-- Hall effect sensors 
-- Ultrasonic sensors
-- DC motor
-- Relay
-- Buzzer 
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: center
-equal: true
----
-
-# **Future Scope**
-- Wireless technology
-- Remote controlling of wheelchair
-- Better obstacle detection
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
-
-
----
-layout: center
-equal: true
----
-
-# **Conclusion**
-- Here we conclude that we have done our analysis phase for components and going to make hardware. 
-
-<style>
-h1 {
-  background-color: #2B90B6;
-  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
-  background-size: 100%;
-  -webkit-background-clip: text;
-  -moz-background-clip: text;
-  -webkit-text-fill-color: transparent; 
-  -moz-text-fill-color: transparent;
-}
-</style>
 
 ---
 layout: center
@@ -254,9 +73,13 @@ equal: true
 ---
 
 # **Literature Review**
-- Tongue Operated Assistive Technologies, Maysam Ghovanloo, IEEE Fellow, University of Michigan [Link](https://www.researchgate.net/publication/5843965_Tongue_Operated_Assistive_Technologies)
-- The Tongue Enables Computer and Wheelchair Control for People with Spinal Cord Injury, Several NCBI Members including Maysam Ghovanloo [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4467691/)
-- 
+There  exist  a  number  of  location  based  systems  that  can automatically  generate  alarm  by  using  mobile  phone. Examples of such systems are described in the following links 
+- NapAlarm: Naplarm uses your location to alert you when you reach your destination. This is especially useful for long journeys during which you might want to take a nap.
+Naplarm on the other hand uses your real-time GPS location. It is therefore rightly named Location Alarm or GPS AlarmThis means you can rest assured you will be woken only when you are near your destination.
+
+- AlarmMe: Alarm-Me is great for daily commutes when you want to be woken when you are close to your destination. Experience a relaxing commute with confidence that you will arrive at your destination with Alarm-Me!
+
+- Wake Me There :  With this alarm app you will never go past your destination or miss your date. This simple free GPS location alarm app for Android will also help you to keep within the mandated distance from home or any other position on the map. Easily set a perimeter.
 
 <a href="https://aks.one" target="_blank"
   class="abs-br m-6 text-xl !border-none">Akash Santhosh
@@ -279,7 +102,56 @@ layout: center
 equal: true
 ---
 
-# **Time Schedule 👀**
+# **Architecture**
+
+- Android
+- XML
+- GPS
+- SQLite
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+
+---
+layout: center
+equal: true
+---
+
+# **Tools Used**
+- Android Studio 
+- Flutter or React-Native or Java/Kotlin
+- AWS/OCI or Firebase
+
+<style>
+h1 {
+  background-color: #2B90B6;
+  background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent; 
+  -moz-text-fill-color: transparent;
+}
+</style>
+
+---
+layout: center
+equal: true
+---
+
+# **Time Schedule**
+
+## 4 weeks
 
 <a href="https://aks.one" target="_blank"
   class="abs-br m-6 text-xl !border-none">Akash Santhosh
